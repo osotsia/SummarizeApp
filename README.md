@@ -58,5 +58,5 @@ The application sends the content of a loaded text file to the OpenAI API. It re
     python main.py
     ```
 
-2.  Click **"Load Document"** to select a text file.
+2.  Click **"Load Document"** to select a text file (SampleNeph.txt).
 3.  Click **"Summarize & Highlight"** to process the document.
